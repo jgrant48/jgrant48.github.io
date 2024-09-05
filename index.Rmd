@@ -1,0 +1,51 @@
+---
+title: "Jelani K. Grant"
+image: "IMG_6113.JPG"
+links:
+  - label: Bio
+    url: "https://github.com/jgrant48/biostat776-intro-jgrant48"
+  - label: Instagram
+    url: "https://www.instagram.com/jellomufc/?hl=en"
+  - label: Twitter
+    url: "https://x.com/jelanigrantmd"
+output:
+  postcards::solana
+---
+ 
+## Bio
+Hey everyone! My name is Jelani Grant and I am a first year  in the MHS Epi class. I am a final year cardiology fellow at Johns Hopkins and interested in lipidology (cholesterol), preventive cardiology and risk prediction. I am originally from Trinidad and Tobago, also known as a "Trini". I am a huge Manchester Untied fan and I am suffering because we have not been winning for the last 10 years!
+
+## Education
+09/2010 – 06/2015
+Doctor of Medicine and Surgery, the University of the West Indies, Mt. Hope Campus, Trinidad and Tobago.
+
+06/2015 - 06/2016
+Internship, Sangre Grande Hospital, Trinidad and Tobago
+
+07/2016 - 10/2016
+House Staff, Sangre Grande Hospital, Trinidad and Tobago
+
+11/2016 - 06/2017
+House Staff, Emergency Department, Arima District Health Facility, Trinidad and Tobago
+
+06/2017 - 06/27/2018
+House Staff, Cardiovascular Division, Advanced Cardiovascular Institute, Trinidad and Tobago
+
+06/27/2018 – 06/30/2021
+Internal Medicine Residency, University of Miami/ Jackson Memorial Hospital. Miami, Florida.
+
+06/2021-06/2022
+Chief Medical Resident, University of Miami/Jackson Memorial Hospital. 
+
+07/2022-Present
+Cardiology Fellow, Johns Hopkins Cardiovascular Diseases Fellowship Program
+
+08/2024- Present
+Master of Health Science Epidemiology Candidate at the Johns Hopkins Bloomberg School of Public Health
+
+## Five Fun Facts
+1. I have never seen or read Harry Potter
+2. I base my school and work schedule around Manchester United games
+3. I hate Cuban food
+4. My wife is half-Cuban
+5. I am slowly becoming a Ravens fan!
